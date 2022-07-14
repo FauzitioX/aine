@@ -56,8 +56,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = FauzyBOT - MD
-global.author = Nomor Bot:6281325984505
+global.packname = Milik
+global.author = Fαυȥყ
 global.wm = '© FauzyBOT - MD'
 
 global.multiplier = 1000 // The higher, The harder levelup
